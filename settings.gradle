@@ -1,0 +1,16 @@
+
+include ':code-generator'
+
+include ':zigbee-api'
+include ':zigbee-console-common'
+
+include ':zigbee-serial-javase'
+include ':zigbee-serial-android'
+
+include ':zigbee-common'
+include ':zigbee-dongle-cc2531'
+
+include ':zigbee-console-javase'
+include ':zigbee-gateway-client'
+include ':zigbee-gateway-server'
+include ':zigbee-console-android'
